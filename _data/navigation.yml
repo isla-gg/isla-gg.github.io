@@ -1,5 +1,8 @@
 - name: Home
   link: /
 
-- name: Fucking Blog
-  link: /fucking-blog/
+- name: Blog
+  link: /blog/
+
+- name: Links
+  link: /links/

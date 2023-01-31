@@ -1,3 +1,3 @@
-# Start a F**king Blog!
+# ISLA.GG
 
-Repo for the startafuckingblog.com website
+Repo for the `isla.gg` website. Enjoy its copious content!
