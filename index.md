@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Welcome
+description: to the home page.
 layout: default
 ---
 
