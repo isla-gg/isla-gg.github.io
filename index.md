@@ -1,6 +1,6 @@
 ---
-title: The .gg stands for *gamer girl*
-description: 
+title:
+description:
 layout: default
 ---
 
